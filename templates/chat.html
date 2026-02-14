@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% block content %}
+<meta http-equiv="refresh" content="6" />
+<section class="chat-layout">
+  <aside class="users card">
+    <h2>Online</h2>
+    <ul>
+      {% for user in left_users %}
+      <li>{{ user }}</li>
+      {% endfor %}
+    </ul>
+  </aside>
+
+  <section class="chat card">
+    <header class="chat-top">
+      <h1>Night Mesh</h1>
+      <div class="who">Signed in as <strong>{{ username }}</strong></div>
+      <form method="post" action="{{ url_for('logout') }}">
+        <button type="submit">Leave</button>
+      </form>
+    </header>
+
+    <div class="messages">
+      {% for msg in messages %}
+      <article class="msg cloud-fade">
+        <div class="name">{{ msg.name }}</div>
+        <p>{{ msg.text }}</p>
+      </article>
+      {% else %}
+      <p class="system">No signals yet. Send the first transmission.</p>
+      {% endfor %}
+    </div>
+
+    <form method="post" action="{{ url_for('send_message') }}" class="composer">
+      <input name="message" type="text" maxlength="300" required placeholder="Type a message..." />
+      <button type="submit">Transmit</button>
+    </form>
+  </section>
+
+  <aside class="users card">
+    <h2>Online</h2>
+    <ul>
+      {% for user in right_users %}
+      <li>{{ user }}</li>
+      {% endfor %}
+    </ul>
+  </aside>
+</section>
+{% endblock %}
