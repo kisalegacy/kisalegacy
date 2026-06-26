@@ -1,0 +1,71 @@
+<svg viewBox="0 0 860 460" width="860" height="460" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="860" height="460" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<rect x="16" y="16" width="828" height="36" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="28" y="40" fill="#3fb950" font-size="13" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="bold">◢  KISALEGACY</text>
+<text x="151" y="40" fill="#8b949e" font-size="11" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">·  SYSTEMS  ·  NETWORKS  ·  SECURITY</text>
+<text x="832" y="40" fill="#3fb950" font-size="11" font-family="'Courier New',Courier,monospace" text-anchor="end" font-weight="normal">● ONLINE</text>
+<rect x="16" y="66" width="310" height="120" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="26" y="82" fill="#58a6ff" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="bold">TIME PROGRESS</text>
+<line x1="17" y1="88" x2="325" y2="88" stroke="#21262d" stroke-width="1"/>
+<text x="26" y="108" fill="#8b949e" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">YEAR  </text>
+<rect x="78" y="98" width="176" height="11" rx="2" fill="#21262d"/>
+<rect x="78" y="98" width="85" height="11" rx="2" fill="#3fb950"/>
+<text x="260" y="108" fill="#e6edf3" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal"> 48.5%</text>
+<text x="26" y="128" fill="#8b949e" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">DAY   </text>
+<rect x="78" y="118" width="176" height="11" rx="2" fill="#21262d"/>
+<rect x="78" y="118" width="156" height="11" rx="2" fill="#3fb950"/>
+<text x="260" y="128" fill="#e6edf3" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal"> 88.7%</text>
+<text x="26" y="148" fill="#8b949e" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">HOUR  </text>
+<rect x="78" y="138" width="176" height="11" rx="2" fill="#21262d"/>
+<rect x="78" y="138" width="50" height="11" rx="2" fill="#3fb950"/>
+<text x="260" y="148" fill="#e6edf3" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal"> 28.9%</text>
+<text x="26" y="168" fill="#8b949e" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">MIN   </text>
+<rect x="78" y="158" width="176" height="11" rx="2" fill="#21262d"/>
+<rect x="78" y="158" width="61" height="11" rx="2" fill="#3fb950"/>
+<text x="260" y="168" fill="#e6edf3" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal"> 35.0%</text>
+<rect x="336" y="66" width="508" height="120" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="346" y="82" fill="#58a6ff" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="bold">SYSTEM CLOCK</text>
+<line x1="337" y1="88" x2="843" y2="88" stroke="#21262d" stroke-width="1"/>
+<text x="590" y="126" fill="#3fb950" font-size="28" font-family="'Courier New',Courier,monospace" text-anchor="middle" font-weight="bold">21:17:21 UTC</text>
+<text x="590" y="150" fill="#8b949e" font-size="12" font-family="'Courier New',Courier,monospace" text-anchor="middle" font-weight="normal">2026-06-26</text>
+<text x="590" y="174" fill="#8b949e" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="middle" font-weight="normal">public repos: 0</text>
+<rect x="16" y="196" width="310" height="150" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="26" y="212" fill="#58a6ff" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="bold">LANGUAGE BREAKDOWN</text>
+<line x1="17" y1="218" x2="325" y2="218" stroke="#21262d" stroke-width="1"/>
+<text x="26" y="240" fill="#e6edf3" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">Python</text>
+<rect x="102" y="230" width="152" height="10" rx="2" fill="#21262d"/>
+<rect x="102" y="230" width="60" height="10" rx="2" fill="#3572A5"/>
+<text x="260" y="240" fill="#8b949e" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">40.0%</text>
+<text x="26" y="264" fill="#e6edf3" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">Go</text>
+<rect x="102" y="254" width="152" height="10" rx="2" fill="#21262d"/>
+<rect x="102" y="254" width="38" height="10" rx="2" fill="#00ADD8"/>
+<text x="260" y="264" fill="#8b949e" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">25.0%</text>
+<text x="26" y="288" fill="#e6edf3" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">Rust</text>
+<rect x="102" y="278" width="152" height="10" rx="2" fill="#21262d"/>
+<rect x="102" y="278" width="27" height="10" rx="2" fill="#dea584"/>
+<text x="260" y="288" fill="#8b949e" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">18.0%</text>
+<text x="26" y="312" fill="#e6edf3" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">C</text>
+<rect x="102" y="302" width="152" height="10" rx="2" fill="#21262d"/>
+<rect x="102" y="302" width="15" height="10" rx="2" fill="#555555"/>
+<text x="260" y="312" fill="#8b949e" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">10.0%</text>
+<text x="26" y="336" fill="#e6edf3" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">Shell</text>
+<rect x="102" y="326" width="152" height="10" rx="2" fill="#21262d"/>
+<rect x="102" y="326" width="10" height="10" rx="2" fill="#89e051"/>
+<text x="260" y="336" fill="#8b949e" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">7.0%</text>
+<rect x="336" y="196" width="508" height="150" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="346" y="212" fill="#58a6ff" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="bold">PROJECT STATUS</text>
+<line x1="337" y1="218" x2="843" y2="218" stroke="#21262d" stroke-width="1"/>
+<text x="346" y="232" fill="#e6edf3" font-size="11" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="bold">ASH CORE</text>
+<text x="834" y="232" fill="#3fb950" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="end" font-weight="normal">[ACTIVE DEV]</text>
+<rect x="346" y="248" width="488" height="9" rx="2" fill="#21262d"/>
+<rect x="346" y="248" width="351" height="9" rx="2" fill="#3fb950"/>
+<text x="346" y="262" fill="#8b949e" font-size="9" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">AI · Database Polymorph · 3D/VR Framework</text>
+<text x="346" y="290" fill="#e6edf3" font-size="11" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="bold">PHOENIX PROTO</text>
+<text x="834" y="290" fill="#d29922" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="end" font-weight="normal">[ARCH PHASE]</text>
+<rect x="346" y="306" width="488" height="9" rx="2" fill="#21262d"/>
+<rect x="346" y="306" width="268" height="9" rx="2" fill="#d29922"/>
+<text x="346" y="320" fill="#8b949e" font-size="9" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">5-Layer Security Containment &amp; Recovery</text>
+<line x1="16" y1="414" x2="844" y2="414" stroke="#21262d" stroke-width="1"/>
+<text x="20" y="428" fill="#8b949e" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="start" font-weight="normal">Systems · Networks · Security  |  Go · Rust · C</text>
+<text x="840" y="428" fill="#8b949e" font-size="10" font-family="'Courier New',Courier,monospace" text-anchor="end" font-weight="normal">auto-updated · 2026-06-26</text>
+</svg>
